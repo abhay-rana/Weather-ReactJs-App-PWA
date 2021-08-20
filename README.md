@@ -1,3 +1,31 @@
+Weather App with lots of functioning:-
+
+You can visit this Web application link => https://vigorous-agnesi-83680c.netlify.app/
+
+1-> it will habdle all types of errors (like city name is not found)
+2-> inbuilt themes (skins)
+3-> day and night progressive bar it shows how much day is passed according to city in progress bar
+4-> it is PWA app it is works as a mobile app also
+5-> completely responsive
+6-> icons changes according to the city weeather
+
+![Weather1](https://user-images.githubusercontent.com/41327466/130293267-cef87e11-d89b-
+4c3d-b497-ed9e3cd359b8.png)
+
+
+![weatherTheme](https://user-images.githubusercontent.com/41327466/130293456-7287b3d8-98f1-
+45dd-87a6-7bea7c3a4990.png)
+
+![progressivedayandniogth](https://user-images.githubusercontent.com/41327466/130293459-
+87697c12-3bf2-49ec-a8a9-9107c704c5c7.png)
+
+![error](https://user-images.githubusercontent.com/41327466/130293255-26d1403a-35ad-43a2-
+862c-d7d6a68b33bf.PNG)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
