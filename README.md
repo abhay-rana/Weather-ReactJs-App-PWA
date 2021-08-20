@@ -14,19 +14,14 @@ You can visit this Web application link => https://vigorous-agnesi-83680c.netlif
 
 6-> icons changes according to the city weeather
 
-
-![Weather1](https://user-images.githubusercontent.com/41327466/130293267-cef87e11-d89b-
-4c3d-b497-ed9e3cd359b8.png)
+![Weather1](https://user-images.githubusercontent.com/41327466/130294170-315fd077-9cd8-473e-b109-93693f254ae8.png)
 
 
-![weatherTheme](https://user-images.githubusercontent.com/41327466/130293456-7287b3d8-98f1-
-45dd-87a6-7bea7c3a4990.png)
 
-![progressivedayandniogth](https://user-images.githubusercontent.com/41327466/130293459-
-87697c12-3bf2-49ec-a8a9-9107c704c5c7.png)
+![error](https://user-images.githubusercontent.com/41327466/130294219-6249a0f9-ea2a-4a31-972f-1a3def0e4534.PNG)
 
-![error](https://user-images.githubusercontent.com/41327466/130293255-26d1403a-35ad-43a2-
-862c-d7d6a68b33bf.PNG)
+
+
 
 
 
