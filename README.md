@@ -3,6 +3,7 @@ Weather App with lots of functioning:-
 You can visit this Web application link => https://vigorous-agnesi-83680c.netlify.app/
 
 1-> it will habdle all types of errors (like city name is not found)
+
 2-> inbuilt themes (skins)
 3-> day and night progressive bar it shows how much day is passed according to city in progress bar
 4-> it is PWA app it is works as a mobile app also
