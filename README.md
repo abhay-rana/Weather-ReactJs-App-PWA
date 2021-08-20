@@ -20,12 +20,9 @@ You can visit this Web application link => https://vigorous-agnesi-83680c.netlif
 
 ![error](https://user-images.githubusercontent.com/41327466/130294219-6249a0f9-ea2a-4a31-972f-1a3def0e4534.PNG)
 
+![progressivedayandniogth](https://user-images.githubusercontent.com/41327466/130294385-e74d868f-84ed-427d-921c-3ec88b2ae1d5.png)
 
-
-
-
-
-
+![weatherTheme](https://user-images.githubusercontent.com/41327466/130294417-2c2eca77-23a7-42a6-8cb5-e86ffee7bd7d.png)
 
 # Getting Started with Create React App
 
