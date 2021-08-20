@@ -5,10 +5,15 @@ You can visit this Web application link => https://vigorous-agnesi-83680c.netlif
 1-> it will habdle all types of errors (like city name is not found)
 
 2-> inbuilt themes (skins)
+
 3-> day and night progressive bar it shows how much day is passed according to city in progress bar
+
 4-> it is PWA app it is works as a mobile app also
+
 5-> completely responsive
+
 6-> icons changes according to the city weeather
+
 
 ![Weather1](https://user-images.githubusercontent.com/41327466/130293267-cef87e11-d89b-
 4c3d-b497-ed9e3cd359b8.png)
